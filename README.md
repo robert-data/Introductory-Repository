@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @robert-data
+- 👋 Hi, I’m @robert-mbugua
 - 👀 I’m interested in Machine Learning and CyberSecurity
 - 🌱 I’m currently learning Machine Learning using Python
 - 💞️ I’m looking to collaborate on Data Science Projects
